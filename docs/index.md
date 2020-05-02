@@ -1,7 +1,3 @@
----
-layout: wrap
----
-
 ## Links to past workshops
 <ul>
   {% for post in site.posts %}
