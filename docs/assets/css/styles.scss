@@ -2,7 +2,6 @@
 
 ---
 
-$breakpoint-tablet: 768px;
 
 img {
   max-width: 100%;
@@ -10,19 +9,19 @@ img {
 }
 
 .head {
-  @media (min-width: $breakpoint-tablet) {
+  @media (min-width: 768px) {
     width: 200px;
     float: left;
   }
 }
 
 .content-wrap {
-  @media (min-width: $breakpoint-tablet) {
+  @media (min-width: 768px) {
     margin-left: 205px;
   }
   
   .foot {
-  @media (min-width: $breakpoint-tablet) {
+  @media (min-width: 768px) {
     width: 200px;
     float: left;
   }
