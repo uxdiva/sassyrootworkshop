@@ -3,5 +3,3 @@ title: Sassy Root Workshop
 baseurl: "/sassyrootworkshop"
 url: "https://uxdiva.github.io/sassyrootworkshop/"
 
-sass:
-  sass_dir: _sass
