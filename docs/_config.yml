@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Sassy Root Workshop
 
+sass:
+  sass_dir: _sass
