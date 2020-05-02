@@ -1,6 +1,27 @@
 ---
 
 ---
-body {
-  color: pink;
+$breakpoint-tablet: 768px;
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.head {
+  @media (min-width: $breakpoint-tablet) {
+    width: 200px;
+    float: left;
   }
+}
+
+.content-wrap {
+  @media (min-width: $breakpoint-tablet) {
+    margin-left: 205px;
+  }
+  
+  .foot {
+  @media (min-width: $breakpoint-tablet) {
+    width: 200px;
+    float: left;
+  }
+}
