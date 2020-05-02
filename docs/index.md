@@ -1,3 +1,6 @@
+---
+layout: wrap
+---
 
 ## Links to past workshops
 <ul>
