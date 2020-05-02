@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+title: Sassy Root Workshop
+baseurl: "/sassyrootworkshop"
+url: "https://uxdiva.github.io/sassyrootworkshop/"
+plugins:
+  - jekyll-feed
